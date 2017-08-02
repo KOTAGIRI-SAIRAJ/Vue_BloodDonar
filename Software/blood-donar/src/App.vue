@@ -10,6 +10,7 @@
       <b-collapse is-nav id="nav_collapse">
         <b-nav is-nav-bar>
           <b-nav-item><router-link to="/registration" class="nav-link" activeClass="active" exact>Registration</router-link></b-nav-item>
+          <b-nav-item><router-link to="/datatable" class="nav-link" activeClass="active" exact>DataTable</router-link></b-nav-item>
         </b-nav>
       </b-collapse>
     </b-navbar>
